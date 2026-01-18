@@ -315,7 +315,7 @@ This project demonstrates proficiency in:
 **Developer:** Muneeb Arif  
 **Email:** muneebarif226@gmail.com  
 **GitHub:** [@muneeb-codehub](https://github.com/muneeb-codehub)  
-**Institution:** Aligarh Muslim University
+**Institution:** FAST National University
 
 ---
 
