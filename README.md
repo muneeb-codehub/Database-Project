@@ -8,7 +8,6 @@ A comprehensive e-commerce store application built with **C# Windows Forms** and
 
 **Developed by:** Muneeb Arif  
 **Email:** muneebarif226@gmail.com  
-**Institution:** Aligarh Muslim University (AMU)
 
 ---
 
