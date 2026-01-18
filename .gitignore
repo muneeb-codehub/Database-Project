@@ -1,0 +1,35 @@
+# Exclude all markdown files except README.md
+*.md
+!README.md
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+bin/
+obj/
+packages/
+*.cache
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Documentation files (except README.md)
+IMPLEMENTATION_GUIDE.md
+DATABASE_SETUP_GUIDE.md
